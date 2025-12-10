@@ -1,12 +1,20 @@
 1. git init
 2. git add .
 3. git commit -m "git commands"
-4. git remote add origin <url>
-5. git push origin main
+4. git config --global user.email "you@example.com"
+5. git config --global user.name "Your Name"
+6. git remote add origin <url>
+7. git branch
+8. git push origin main
 
+--------------------------------------------
+if u are add any files or change the existing files in the current floder need to follow this steps
+1. git status
+2. git add .
+3. git commit -m "changes in commands"
+4. git push origin main
 
 https://github.com/SujithaBhupathi/JFS_VISEM THIS IS NEEDED
 
 
 
-https://github.com/SujithaBhupathi/JFS_VISEM.git
